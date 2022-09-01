@@ -18,10 +18,10 @@ You are also encouraged to install Python (preferably Anaconda) on your machines
 If possible, please bring a laptop to class to interactively discuss the material.
 
 ## Instructor and Teaching Assistant
-- Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
-- Office Hours: Mondays 1pm - 2pm, Iona #013
-- TA: Sudipta Ghosh [gsudipta01@gmail.com](mailto:gsudipta01@gmail.com)
-- Office Hours: Thursdays 10am - 11am, Zoom link on Canvas
+- Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
+- Office Hours: Tuesdays 10:30am - 11:30am or by appointment, Iona #106
+- TA: Joshua Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
+- Office Hours ?
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
@@ -32,7 +32,7 @@ Major course sections
 3. **Introduction to Pandas and Data Wrangling**
 4. **Data Science Case Studies and Tools**
 
-Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation: 5%
+Grading: Weekly problem sets: 45%; Midterm: 15%; Final projects: 20%; Final exam: 20%; Attendance/Participation: 5%
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/theme/projects.html)
 
