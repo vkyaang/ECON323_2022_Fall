@@ -7,9 +7,8 @@ We will follow the [QuantEcon DataScience](https://datascience.quantecon.org/) t
 ## Computational Setup
 
 Installing software on your laptop is not mandatory. Instead,
-- Go to the [QuantEcon DataScience Introduction](https://datascience.quantecon.org/introduction/)
-- One-time setup: click on the "Settings" icon at the bottom of a lecture and choose the server: ubc.syzygy.ca
-- Then click on the "Launch Notebook" to launch any notebook in your computing environment
+- Go to the [QuantEcon DataScience](https://datascience.quantecon.org/) website and navigate to to notebook you want to use
+- To import a lecture into UBC JupyterOpen, click the "launch notebook" icon in the top right corner, and enter: https://open.jupyter.ubc.ca as the private server
 - See [Troubleshooting](https://datascience.quantecon.org/introduction/troubleshooting.html) for how to reset notebooks, etc.
 - We strongly suggest creating a GitHub account and signing up for the [GitHub Student Developer Pack](https://education.github.com/pack/)
 
