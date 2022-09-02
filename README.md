@@ -37,4 +37,4 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 
 [Lecture and Problem Set Schedule](schedule.md)
 
-Read the [problem set submission rules](problemsetrules.md) before attempting the problem sets. **Not following these rules will result in deducted marks**
+Read the [problem set submission rules](problemsetrules.md) before attempting the problem sets. **Not following these rules will result in deducted marks.**
