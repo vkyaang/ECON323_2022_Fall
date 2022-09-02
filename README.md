@@ -37,4 +37,4 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 
 [Lecture and Problem Set Schedule](schedule.md)
 
-All problem sets are to be sent as clean, **executed** `.ipynb` notebooks on Canvas.
+Read the [problem set submission rules](problemsetrules.md) before attempting the problem sets. **Not following these rules will result in deducted marks**
