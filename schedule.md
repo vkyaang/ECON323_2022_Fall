@@ -1,4 +1,4 @@
-This is a tentative schedule and will be updated as the course progresses.
+This is a *tentative schedule* and *will be updated and changed* as the course progresses.
 
 ## Lectures and Notebooks
 1. **September 6** - Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
