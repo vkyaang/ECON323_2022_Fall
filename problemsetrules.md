@@ -1,4 +1,4 @@
-ECON 323 – Problem Set Requirements
+### ECON 323 – Problem Set Requirements
 ## Introduction
 In this class, you will be submitting jupyter notebooks as your solutions to the
 problem sets. Since many of you have not previously submitted code for a class,
