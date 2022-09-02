@@ -1,7 +1,7 @@
 
 ## Quantitative Economic Modeling with Data Science Applications
 
-- **Instructor:** Peifan Wu, wupeifan@mail.ubc.ca
+- **Instructor:** Philip Solimine, philip.solimine@ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
@@ -23,11 +23,13 @@ All materials will be provided online:
 
 ## Grading
 
-- Weekly problem sets: 50%
-- Final projects: 45%
+- Problem sets: 40%
+- Midterm exam: 15%
+- Final projects: 20%
+- Final exam: 20%
 - Attendance/Participation: 5%
 
-## Topics
+## Tentative Topics
 
 1. **Python Fundamentals**
   * Introduction to Python
