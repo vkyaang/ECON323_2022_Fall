@@ -34,7 +34,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2022_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!.
 
 
-1. Due **January 21** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
+1. Due **September 15** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **January 31** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **February 9** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 4. Due **February 18**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
