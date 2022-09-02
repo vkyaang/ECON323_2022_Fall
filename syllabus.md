@@ -11,14 +11,14 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The first four weeks of the classes, up to Feb 7th, will be held virtually on Zoom. According to the current UBC policy, we will meet **in-person** starting from the week of Feb 7th. The classes will be held at **Iona #633** on Mondays and Wednesdays, 8:30am - 9:50am. These schedules will be subject to changes in related UBC policies.
+The first four weeks of the classes, up to Feb 7th, will be held virtually on Zoom. According to the current UBC policy, we will meet **in-person** starting from the week of Feb 7th. The classes will be held at **LASR 104** on Tuesday and Thursday, 12:30-1:50pm. These schedules will be subject to changes in related UBC policies.
 
 For students who cannot attend in person, class recordings will also be available on Zoom, through http://canvas.ubc.ca.
 
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON323_2022_Spring
+- Class Materials: https://github.com/doctor-phil/ECON323_2022_Fall
 - Communications, Announcements, Grades, Zoom, Piazza: http://canvas.ubc.ca
 
 ## Grading
