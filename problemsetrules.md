@@ -38,7 +38,7 @@ reason. If the question asks simply for a number or a certain result that you
 obtained via your code, make sure the number is displayed when the code is
 executed. The easiest way to do this is with the print() function.
 ## Jupyter Notebook Title
-The title of your jupyter notebook for a given submission should reflect the surnames of those who worked on the notebook and the problem set being answered.
+The title of your jupyter notebook for a given submission should reflect the surnames of those who worked on the notebook and the problem set being answered.
 For instance, if John Doe and and Juan Perez solve problem set 2 together, their
 jupyter notebook should be titled something similar to ”Doe Perez PS2.ipynb”
 ## Notebook Organization
