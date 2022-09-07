@@ -7,7 +7,7 @@ seem strict, standardization is a very useful habit to develop when coding and
 working with data. This is especially true when you’re collaborating with other
 people. We will deduct marks if these rules are not followed.
 ## Working Together
-You are encouraged to work on the problem sets in groups of two, but you can
+You are encouraged to work on the problem sets in ***groups of two***, but you can
 work alone. Group members should work on the problems together or work
 on them individually and discuss after the fact. Groups should not split the
 problems up so that each person is responsible for only a portion of the questions.
