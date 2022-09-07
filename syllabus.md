@@ -13,13 +13,11 @@ data and making numerical calculations/simulations of models in economics.
 
 The classes will be held at **LASR 104** on Tuesday and Thursday, 12:30-1:50pm. These schedules will be subject to changes in related UBC policies.
 
-For students who cannot attend in person, class recordings will also be available on Zoom, through http://canvas.ubc.ca.
-
 ## Course Materials and Communications
 
 All materials will be provided online:
 - Class Materials: https://github.com/doctor-phil/ECON323_2022_Fall
-- Communications, Announcements, Grades, Zoom, Piazza: http://canvas.ubc.ca
+- Communications, Announcements, Grades, Piazza: http://canvas.ubc.ca
 
 ## Grading
 
