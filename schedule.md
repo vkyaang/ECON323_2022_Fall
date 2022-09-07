@@ -9,8 +9,8 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 6. **September 27** - PS1 review, [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 7. **September 29** - Net present value stuff (preparation for PS 3), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html)
 8. **October 4** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) 
-9.  **October 6** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
-10. **October 11** - PS2 review, [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+9.  **October 6** - PS2 review, [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+10. **October 11** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 11. **October 13** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 12. **October 18** - PS3 Review, [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 14. **October 20** - Midterm Exam
