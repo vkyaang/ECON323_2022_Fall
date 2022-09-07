@@ -2,7 +2,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:** Philip Solimine, philip.solimine@ubc.ca
-- **TA** Joshua Catalano, jcatal@student.ubc.ca
+- **TA:** Joshua Catalano, jcatal@student.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
