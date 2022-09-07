@@ -27,7 +27,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 25. **November 29** - PS7 review, introduction of natural language processing and [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 26. **December 1** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 27. **December 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-28. **December 8** - Exam review?
+28. **December 8** - Exam review
 
 ## Problem Sets
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2022_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!
