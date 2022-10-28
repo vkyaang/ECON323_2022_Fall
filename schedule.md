@@ -36,3 +36,4 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 1. Due **September 23 at 11:59pm** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **October 4 at 11:59pm** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **Friday October 14 at 11:59pm** - [Problem Set 3](problem_sets/problem_set_3.ipynb)
+4. Due **Tuesday November 1 at 11:59pm** - [Problem Set 4](problem_sets/problem_set_4.ipynb)
