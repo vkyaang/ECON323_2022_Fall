@@ -29,7 +29,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 27. **November 29** - Machine learning: [Classification](https://datascience.quantecon.org/applications/classification.html) and [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 28. **December 1** - [Social and economic networks](https://github.com/doctor-phil/analyzing-economic-networks/blob/main/Analyzing_economic_networks.ipynb)
 29. **December 6** - Class with Josh
-30. **December 15** - Exam
+30. **December 15** - Exam, Final project due
 
 ## Problem Sets
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2022_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!
