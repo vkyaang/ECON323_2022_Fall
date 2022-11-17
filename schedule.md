@@ -24,7 +24,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 
 ## Schedule for the remainder of the semester, Winter 1 2022:
 24. **November 17** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-25. **November 22** - PS6 review, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+25. **November 22** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 26. **November 24** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 27. **November 29** - Machine learning: [Classification](https://datascience.quantecon.org/applications/classification.html) and [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 28. **December 1** - [Social and economic networks](https://github.com/doctor-phil/analyzing-economic-networks/blob/main/Analyzing_economic_networks.ipynb)
