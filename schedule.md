@@ -22,7 +22,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 21. **November 10** - Midterm Break
 22. **November 15** - [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
 
-Schedule for the remainder of the semester, Winter 1 2022:
+## Schedule for the remainder of the semester, Winter 1 2022:
 24. **November 17** - [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 25. **November 22** - PS6 review, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 26. **November 24** - [Regression](https://datascience.quantecon.org/applications/regression.html)
