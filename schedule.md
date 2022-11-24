@@ -39,4 +39,4 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 2. Due **October 4 at 11:59pm** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **Friday October 14 at 11:59pm** - [Problem Set 3](problem_sets/problem_set_3.ipynb)
 4. Due **Tuesday November 1 at 11:59pm** - [Problem Set 4](problem_sets/problem_set_4.ipynb)
-5. Due **Friday November 25 at 11:59pm** - [Problem Set 5](problem_sets/problem_set_5.ipynb)
+5. Due **~~Friday November 25~~ Monday November 28 at 11:59pm** - [Problem Set 5](problem_sets/problem_set_5.ipynb)
